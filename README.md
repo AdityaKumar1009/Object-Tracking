@@ -18,14 +18,21 @@ This project demonstrates object detection and multi-object tracking using **YOL
 - Byte Track tracker car : "https://youtu.be/3V6iZ175mpw"
 - BoT SORT tracker car : "https://youtu.be/o8-m0n6a9WE"
 - BoT SORT without ReID tracker car : "https://youtu.be/BLZ_G0IOTQg"
+  
 - Achieved FPS : 31.37 (BoT SORT without ReID)
 - Achieved FPS : 14.83 (BoT SORT)
 
-
+  ---
 - input video palace : "https://youtu.be/I6B8pCxS2Og"
 - DeepSort tracker palace : "https://youtu.be/ychYrYjT4Aw"
 - Byte Track tracker palace : "https://youtu.be/iH7RXVUZy2I"
 - BoT SORT tracker palace : "https://youtu.be/8cmqvj3h7ug"
 - BoT SORT without ReID tracker palace : "https://youtu.be/9F42Q6JjZ4s"
+  
 - Achieved FPS : 32.35 (BoT SORT without ReID)
 - Achieved FPS : 13.68 (BoT SORT)
+
+  ---
+## Hardware
+
+Tesla T4 GPU
